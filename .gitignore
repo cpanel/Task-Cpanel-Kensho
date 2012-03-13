@@ -1,4 +1,3 @@
-/META.yml
-/MYMETA.json
-/MYMETA.yml
-/Makefile
+/.build/
+/Task-Cpanel-*/
+*.gz
